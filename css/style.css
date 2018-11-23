@@ -1,0 +1,20 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+.discover-header, h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-family: Verdana;
+}
+
+.download {
+  font-size: 16px;
+}
