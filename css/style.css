@@ -15,6 +15,26 @@ a {
   font-family: Verdana;
 }
 
+h2 {
+  color: White;
+}
+
 .download {
   font-size: 16px;
+}
+
+.personal {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.remembers {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.copyright {
+  text-align: right;
 }
